@@ -32,8 +32,12 @@
 // 8
 // O
 // //------Submit your answers under the
-// question------//
+// question------// 
 // //create three different ways to declare variables
+// 1.var
+// 2.let
+// 3.const
+//-------------------------------------------------
 // //declare a variable and reassign a value to it
 // //create a variable and after that assign a string
 // with its value being: He's got it!
